@@ -1,9 +1,12 @@
+import React from 'react';
+import Title from './body/Title';
+import Upload from './body/Upload';
+
 function App() {
   return (
-    <div>
-      <h1>Aiba</h1>
-      <h1>Kuba</h1>
-      <div className="text">Представляет...</div>
+    <div className="App">
+      <Title/>;
+      <Upload/>;
     </div>
   );
 }

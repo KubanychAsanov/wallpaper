@@ -1,5 +1,4 @@
 body {
-  background-color: black;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -12,19 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-h1{
-  color: #fff;
+.title,form{
   text-align: center;
 }
-.text{
-  font-size: 50px;
-  text-align: center;
-  color: #fff;
-  animation: flashing-border 0.75s step-end infinite,
-  printed-text 10s steps(15) ;
+input{
+  display: none;
 }
-@keyframes printed-text{
-  from{
-    width: 0;
-  }
+span{
+  font-size: 24px;
+  border: black 1px solid;
+  border-radius: 50%;
+  padding: 0 10px;
+  box-shadow: dimgrey 0px 4px;
+}
+span:hover{
+  font-size: 25px;
+  box-shadow: dimgrey 0px 3px;
 }
