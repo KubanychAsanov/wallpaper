@@ -12,7 +12,7 @@ This project idea was taken from the site [Unplush](https://unsplash.com/).
 * HTML,CSS,JS(React)
 * Pictures from [unplush](https://unsplash.com/) 
 
-![Imgur](https://imgur.com/dRCr7vV)
+![Imgur](https://i.imgur.com/dRCr7vV.png)
 
 ![image](https://imgur.com/a/ys9tUHQ.png)
 
