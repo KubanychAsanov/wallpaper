@@ -12,9 +12,9 @@ This project idea was taken from the site [Unplush](https://unsplash.com/).
 * HTML,CSS,JS(React)
 * Pictures from [unplush](https://unsplash.com/) 
 
-![page](https://imgur.com/a/h6YLdm0.png)
+![image](https://imgur.com/a/h6YLdm0.png)
 
-![page](https://imgur.com/a/ys9tUHQ.png)
+![image](https://imgur.com/a/ys9tUHQ.png)
 
 #### Video on youtube 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=M1jtgSYxtQY)
