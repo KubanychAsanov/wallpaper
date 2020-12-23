@@ -14,7 +14,7 @@ This project idea was taken from the site [Unplush](https://unsplash.com/).
 
 ![Imgur](https://i.imgur.com/dRCr7vV.png)
 
-![image](https://imgur.com/a/ys9tUHQ.png)
+![image](https://i.imgur.com/a/ys9tUHQ.png)
 
 #### Video on youtube 
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=M1jtgSYxtQY)
