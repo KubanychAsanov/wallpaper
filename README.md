@@ -1,7 +1,7 @@
 # Wallpaper React App for developers
 ## Team members
-###*Aibek Koshmatov
-###*Kubanych Asanov
+### @ Aibek Koshmatov
+### @ Kubanych Asanov
 
 This project idea was taken from the site [Unplush](https://unsplash.com/).
 
