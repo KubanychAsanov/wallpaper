@@ -17,5 +17,6 @@ This project idea was taken from the site [Unplush](https://unsplash.com/).
 ![Imgur](https://imgur.com/jpnsfue.png)
 
 #### Video on youtube 
-[![Watch the video](https://www.youtube.com/watch?v=nEJbSIZ1I20)
+# (https://www.youtube.com/watch?v=nEJbSIZ1I20)
+
 
