@@ -64,14 +64,17 @@ span:hover{
   left: 0;
 }
 .img-wrap div{
+  display: flex;
+  justify-content: flex-end;
   width: 100%;
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: rgba(0, 0, 0, 0.7);
   position: absolute;
   left: 0;
   bottom: 0;
 }
 .like{
-  margin: auto 5px;
+  font-size: 25px;
+  margin-right: 5px;
 }
 .backdrop{
   position: fixed;
