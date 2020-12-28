@@ -63,6 +63,16 @@ span:hover{
   top: 0;
   left: 0;
 }
+.img-wrap div{
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.9);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+.like{
+  margin: auto 5px;
+}
 .backdrop{
   position: fixed;
   top: 0;
