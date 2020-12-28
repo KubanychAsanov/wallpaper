@@ -1,3 +1,5 @@
+# Feedbacks https://docs.google.com/document/u/0/?authuser=0&usp=docs_web 
+
 # Wallpaper React App for developers
 ## Team members
 ### @ Aibek Koshmatov
