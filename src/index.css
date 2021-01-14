@@ -11,6 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar{
+  display: flex;
+  padding-left: 10px;
+  position: relative;
+  z-index: 1;
+}
+.apk a{
+  text-decoration: none;
+  color: #000;
+  position: absolute;
+  top: 30px;
+  right: 10px;
+}
+.apk a:hover{
+  color: cadetblue;
+}
 .App{
   max-width: 960px;
   margin: 0 auto;
