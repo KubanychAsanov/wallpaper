@@ -1,3 +1,6 @@
+# Feedbacks ![Screenshot_2020-12-28-22-49-27-845_cn wps xiaomi abroad lite](https://user-images.githubusercontent.com/58214386/103230224-16501580-495f-11eb-9c2d-6b66b639acf9.jpg)
+
+
 # Wallpaper React App for developers
 ## Team members
 ### @ Aibek Koshmatov
